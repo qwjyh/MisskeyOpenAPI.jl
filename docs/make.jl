@@ -11,9 +11,11 @@ makedocs(;
         canonical="https://qwjyh.github.io/MisskeyOpenAPI.jl",
         edit_link="main",
         assets=String[],
+        size_threshold=nothing,
     ),
     pages=[
         "Home" => "index.md",
+        "Auto Generated" => "README.md",
     ],
 )
 
