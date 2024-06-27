@@ -1,7 +1,7 @@
 name = "MisskeyOpenAPI"
 uuid = "dc80f066-4423-4c69-bb90-c9096dafed40"
 authors = ["qwjyh <urataw421@gmail.com> and contributors"]
-version = "0.1.0-DEV"
+version = "0.1.0"
 
 [deps]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
